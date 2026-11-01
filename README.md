@@ -4,8 +4,8 @@ COS 201 — COMPUTER PROGRAMMING I
 
 Student Information
 
-- Name: [Your Full Name]
-- Matriculation Number: [Your Matric Number]
+- Name: Chioma Rochelle Ezeibe 
+- Matriculation Number:26/21886
 - Programme: Computer Science
 - Course: COS 201 — Computer Programming I
 - Programming Language: Java
@@ -40,7 +40,6 @@ Learning Outcome
 
 I learned the basics of programming, how to approach computational problems and how to write and execute a simple Java program.
 
----
 
 WEEK 2: Development Environment and First Java Program
 
@@ -88,7 +87,6 @@ Learning Outcome
 
 I learned how to create a Java source file, compile and execute a program, understand basic Java program structure and organise programming work using GitHub.
 
----
 
 WEEK 3: Variables, Data Types, Expressions and Input/Output
 
